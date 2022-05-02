@@ -1,0 +1,25 @@
+GET http://localhost:3000/books/2/
+
+### 
+GET http://localhost:3000/books/?offset=0&limit=12&order_by=id&order=ASC 
+
+###
+POST http://localhost:3000/books/
+Content-Type: application/json
+
+{
+    "id":11,
+    "writter":"JK Rowlling",
+    "book":"Harry Potter8"
+}
+
+###
+PUT http://localhost:3000/books/1
+Content-Type: application/json
+
+{
+    "book" : "Harry Potter1"
+}
+
+###
+DELETE http://localhost:3000/books/6

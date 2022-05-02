@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dinesh1816/day-1.git"
+    "url": "git+https://github.com/dinesh1816/node.git"
   },
   "keywords": [
     "dinesh"
@@ -21,7 +21,7 @@
   "author": "dinesh",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dinesh1816/day-1/issues"
+    "url": "https://github.com/dinesh1816/node/issues"
   },
-  "homepage": "https://github.com/dinesh1816/day-1#readme"
+  "homepage": "https://github.com/dinesh1816/node#readme"
 }
